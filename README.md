@@ -22,3 +22,21 @@ Perfect for aspiring data scientists, researchers, and statistics students!
 ---
 
 ## 🗂️ Folder Structure
+[immah-data-hub](.)/
+│
+├── index.html
+├── data.html
+├── notes.html
+├── books.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── main.js
+│
+├── data/
+├── notes/
+├── books/
+└── scripts/
