@@ -1,0 +1,11 @@
+"Model","Parameter","Estimate","Std. Error","t value","Pr(>|t|)"
+"Power","a",4e-04,0,10.3937,0
+"Power","b",2.193,0.0276,79.4691,0
+"Combined_Power","a",1e-04,0,10.8843,0
+"Combined_Power","b",1.8015,0.0228,79.0698,0
+"Combined_Power","c",1.0496,0.0359,29.2602,0
+"Compound","a",1e-04,0,12.7988,0
+"Compound","b",0.9297,0.0078,119.6542,0
+"Additive","a",0.019,0.0028,6.8595,0
+"Additive","b",0,0,180.8742,0
+"Simple_Form","a",0,0,251.4302,0

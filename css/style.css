@@ -1,0 +1,39 @@
+/* General */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Modal styling */
+.modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-content {
+  background: white;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  position: relative;
+  max-width: 500px;
+  width: 90%;
+}
+
+.close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #333;
+}
+
+.subsection {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.subsection:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
